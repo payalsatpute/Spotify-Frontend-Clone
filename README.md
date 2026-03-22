@@ -40,6 +40,3 @@ git clone https://github.com/your-username/spotify-frontend-clone.git
 * Connect to music APIs
 
 ---
-
-
-⭐ If you like this project, consider giving it a **star on GitHub**.
